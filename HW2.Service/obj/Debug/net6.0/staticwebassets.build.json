@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wDCszvYW2SjMVxoMUyWq9lhhcLFuxlAgNCG4UmsHYOs=",
+  "Source": "HW2.Service",
+  "BasePath": "_content/HW2.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

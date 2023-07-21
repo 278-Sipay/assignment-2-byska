@@ -1,0 +1,12 @@
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\bin\Debug\net6.0\HW2.Base.deps.json
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\bin\Debug\net6.0\HW2.Base.dll
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\bin\Debug\net6.0\HW2.Base.pdb
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\obj\Debug\net6.0\HW2.Base.csproj.AssemblyReference.cache
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\obj\Debug\net6.0\HW2.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\obj\Debug\net6.0\HW2.Base.AssemblyInfoInputs.cache
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\obj\Debug\net6.0\HW2.Base.AssemblyInfo.cs
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\obj\Debug\net6.0\HW2.Base.csproj.CoreCompileInputs.cache
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\obj\Debug\net6.0\HW2.Base.dll
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\obj\Debug\net6.0\refint\HW2.Base.dll
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\obj\Debug\net6.0\HW2.Base.pdb
+D:\KD14\Sipay\2_hafta\HW_2\HW2.Service\HW2.Base\obj\Debug\net6.0\ref\HW2.Base.dll
