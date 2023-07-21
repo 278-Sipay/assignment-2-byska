@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xr40KH/Bv4zeUJaYRmgsTU4gfn0hf6ualn/xUzkLgAWaIEC81rWrOVkd8a4hb2nALZeigFhwJCUwvdX1zD25HA==",
+  "dgSpecHash": "2aY18didsl/VJHYmLm1hyZIOgz0XijvurRxrgcDu1ImH00GlbbnhZzNBk8Y1vu7kwIeFLiu3n7P4l15M69lPcw==",
   "success": true,
-  "projectFilePath": "D:\\KD14\\Sipay\\2_hafta\\HW_2\\HW2.Service\\HW2.Schema\\HW2.Schema.csproj",
+  "projectFilePath": "D:\\KD14\\Sipay\\2_hafta\\HW\\assignment-2-byska\\HW2.Service\\HW2.Schema\\HW2.Schema.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Beyas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Beyas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

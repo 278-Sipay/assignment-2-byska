@@ -19,7 +19,11 @@ namespace HW2.Data.Repository.Base
             _dbContext = dbContext;
             _dbSet = _dbContext.Set<T>();
         }
-
+        /// <summary>
+        /// It returns the relevant transaction according to the given filters.
+        /// </summary>
+        /// <param name="expression">filters</param>
+        /// <returns></returns>
         public List<T> GetByParameter(Expression<Func<T, bool>> expression) => _dbSet.Where(expression).ToList();
        
     }

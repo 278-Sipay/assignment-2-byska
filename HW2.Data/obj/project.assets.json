@@ -2036,11 +2036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KD14\\Sipay\\2_hafta\\HW_2\\HW2.Service\\HW2.Data\\HW2.Data.csproj",
+      "projectUniqueName": "D:\\KD14\\Sipay\\2_hafta\\HW\\assignment-2-byska\\HW2.Service\\HW2.Data\\HW2.Data.csproj",
       "projectName": "HW2.Data",
-      "projectPath": "D:\\KD14\\Sipay\\2_hafta\\HW_2\\HW2.Service\\HW2.Data\\HW2.Data.csproj",
+      "projectPath": "D:\\KD14\\Sipay\\2_hafta\\HW\\assignment-2-byska\\HW2.Service\\HW2.Data\\HW2.Data.csproj",
       "packagesPath": "C:\\Users\\Beyas\\.nuget\\packages\\",
-      "outputPath": "D:\\KD14\\Sipay\\2_hafta\\HW_2\\HW2.Service\\HW2.Data\\obj\\",
+      "outputPath": "D:\\KD14\\Sipay\\2_hafta\\HW\\assignment-2-byska\\HW2.Service\\HW2.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
@@ -2062,8 +2062,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\KD14\\Sipay\\2_hafta\\HW_2\\HW2.Service\\HW2.Base\\HW2.Base.csproj": {
-              "projectPath": "D:\\KD14\\Sipay\\2_hafta\\HW_2\\HW2.Service\\HW2.Base\\HW2.Base.csproj"
+            "D:\\KD14\\Sipay\\2_hafta\\HW\\assignment-2-byska\\HW2.Service\\HW2.Base\\HW2.Base.csproj": {
+              "projectPath": "D:\\KD14\\Sipay\\2_hafta\\HW\\assignment-2-byska\\HW2.Service\\HW2.Base\\HW2.Base.csproj"
             }
           }
         }
